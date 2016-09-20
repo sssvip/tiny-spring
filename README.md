@@ -1,4 +1,4 @@
-tiny-spring
+﻿tiny-spring
 =======
 
 >A tiny IoC container refer to Spring.
@@ -23,3 +23,8 @@ tiny-spring
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/code4craft/tiny-spring/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+## 学习使用
+
+尽快实习git版本控制
+熟悉Spring
